@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>chiayuhsu.github.io/song/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="chiayuhsu.github.io/song/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>丟丟銅</title>
+      <link>chiayuhsu.github.io/song/posts/song02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song02/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>妹妹揹著洋娃娃</title>
+      <link>chiayuhsu.github.io/song/posts/song03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>小蜜蜂</title>
+      <link>chiayuhsu.github.io/song/posts/song01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song01/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>拔蘿蔔</title>
+      <link>chiayuhsu.github.io/song/posts/song04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song04/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>泥娃娃</title>
+      <link>chiayuhsu.github.io/song/posts/song05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song05/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>王老先生有塊地</title>
+      <link>chiayuhsu.github.io/song/posts/song06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song06/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>綜合01</title>
+      <link>chiayuhsu.github.io/song/posts/song07_mix01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>chiayuhsu.github.io/song/posts/song07_mix01/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

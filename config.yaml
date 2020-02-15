@@ -1,0 +1,16 @@
+baseURL: "chiayuhsu.github.io/children_song/"
+theme: "contrast-hugo"
+publishDir: "docs"
+
+params:
+  sidebar: false
+  fontawesome: true
+  description: 'Made by <a href="">Blog Author</a>'
+
+menu:
+  main:
+  - identifier: "home"
+    name: "兒歌列表"
+    url: "/"
+    weight: 1
+    pre: "<span class='fas fa-home hidden'></span>"
