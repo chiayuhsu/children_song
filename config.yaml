@@ -1,4 +1,5 @@
-baseURL: "chiayuhsu.github.io/children_song/"
+baseURL: "https://chiayuhsu.github.io/children_song/"
+languageCode: "en-us"
 theme: "contrast-hugo"
 publishDir: "docs"
 
