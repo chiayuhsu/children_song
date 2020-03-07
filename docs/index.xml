@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>普通兒歌 on </title>
     <link>https://chiayuhsu.github.io/children_song/</link>
-    <description>Recent content on </description>
+    <description>Recent content in 普通兒歌 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -21,10 +21,10 @@
     
     <item>
       <title>九九乘法</title>
-      <link>https://chiayuhsu.github.io/children_song/posts/song16_multiplication/</link>
+      <link>https://chiayuhsu.github.io/children_song/learning/song16_multiplication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiayuhsu.github.io/children_song/posts/song16_multiplication/</guid>
+      <guid>https://chiayuhsu.github.io/children_song/learning/song16_multiplication/</guid>
       <description>   </description>
     </item>
     
@@ -75,19 +75,19 @@
     
     <item>
       <title>水果兒歌</title>
-      <link>https://chiayuhsu.github.io/children_song/posts/song14_fruits/</link>
+      <link>https://chiayuhsu.github.io/children_song/learning/song14_fruits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiayuhsu.github.io/children_song/posts/song14_fruits/</guid>
+      <guid>https://chiayuhsu.github.io/children_song/learning/song14_fruits/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>汽車兒歌</title>
-      <link>https://chiayuhsu.github.io/children_song/posts/song11_car/</link>
+      <link>https://chiayuhsu.github.io/children_song/learning/song11_car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiayuhsu.github.io/children_song/posts/song11_car/</guid>
+      <guid>https://chiayuhsu.github.io/children_song/learning/song11_car/</guid>
       <description>   </description>
     </item>
     
@@ -138,10 +138,10 @@
     
     <item>
       <title>英文單字01</title>
-      <link>https://chiayuhsu.github.io/children_song/posts/song15_englishwords/</link>
+      <link>https://chiayuhsu.github.io/children_song/learning/song15_englishwords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiayuhsu.github.io/children_song/posts/song15_englishwords/</guid>
+      <guid>https://chiayuhsu.github.io/children_song/learning/song15_englishwords/</guid>
       <description>   </description>
     </item>
     

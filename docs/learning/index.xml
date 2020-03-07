@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>學習兒歌 on </title>
+    <link>https://chiayuhsu.github.io/children_song/learning/</link>
+    <description>Recent content in 學習兒歌 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://chiayuhsu.github.io/children_song/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>九九乘法</title>
+      <link>https://chiayuhsu.github.io/children_song/learning/song16_multiplication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiayuhsu.github.io/children_song/learning/song16_multiplication/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>水果兒歌</title>
+      <link>https://chiayuhsu.github.io/children_song/learning/song14_fruits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiayuhsu.github.io/children_song/learning/song14_fruits/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>汽車兒歌</title>
+      <link>https://chiayuhsu.github.io/children_song/learning/song11_car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiayuhsu.github.io/children_song/learning/song11_car/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>英文單字01</title>
+      <link>https://chiayuhsu.github.io/children_song/learning/song15_englishwords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiayuhsu.github.io/children_song/learning/song15_englishwords/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

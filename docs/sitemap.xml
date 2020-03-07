@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chiayuhsu.github.io/children_song/</loc>
-  </url>
-  
-  <url>
     <loc>https://chiayuhsu.github.io/children_song/categories/</loc>
   </url>
   
@@ -23,7 +19,7 @@
   </url>
   
   <url>
-    <loc>https://chiayuhsu.github.io/children_song/posts/song16_multiplication/</loc>
+    <loc>https://chiayuhsu.github.io/children_song/learning/song16_multiplication/</loc>
   </url>
   
   <url>
@@ -32,6 +28,10 @@
   
   <url>
     <loc>https://chiayuhsu.github.io/children_song/posts/song03/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chiayuhsu.github.io/children_song/learning/</loc>
   </url>
   
   <url>
@@ -47,11 +47,15 @@
   </url>
   
   <url>
-    <loc>https://chiayuhsu.github.io/children_song/posts/song14_fruits/</loc>
+    <loc>https://chiayuhsu.github.io/children_song/</loc>
   </url>
   
   <url>
-    <loc>https://chiayuhsu.github.io/children_song/posts/song11_car/</loc>
+    <loc>https://chiayuhsu.github.io/children_song/learning/song14_fruits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chiayuhsu.github.io/children_song/learning/song11_car/</loc>
   </url>
   
   <url>
@@ -75,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://chiayuhsu.github.io/children_song/posts/song15_englishwords/</loc>
+    <loc>https://chiayuhsu.github.io/children_song/learning/song15_englishwords/</loc>
   </url>
   
   <url>

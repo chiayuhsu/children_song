@@ -11,7 +11,12 @@ params:
 menu:
   main:
   - identifier: "home"
-    name: "兒歌列表"
+    name: "普通兒歌"
     url: "/"
     weight: 1
-    pre: "<span class='fas fa-home hidden'></span>"
+
+  - identifier: "learning"
+    name: "學習兒歌"
+    url: "/learning/"
+    weight: 2
+
