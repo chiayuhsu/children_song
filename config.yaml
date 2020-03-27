@@ -24,3 +24,8 @@ menu:
     name: "講故事"
     url: "/story/"
     weight: 3
+
+  - identifier: "new"
+    name: "新歌和新故事"
+    url: "/new/"
+    weight: 4
